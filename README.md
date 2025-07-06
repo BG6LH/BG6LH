@@ -1,4 +1,4 @@
-![DXCC Confirmed](https://img.shields.io/badge/dynamic/json?label=DXCC%20Confirmed&url=https://bg6lh.github.io/js/lotwDxcc.json&query=dxcc_confirmed)
+![DXCC Confirmed](https://img.shields.io/badge/dynamic/json?label=DXCC%20CFM&url=https://bg6lh.github.io/js/lotwDxcc.json&query=dxcc_confirmed)
 ![LoTW QSOs](https://img.shields.io/badge/dynamic/json?label=LoTW%20QSO&url=https://bg6lh.github.io/js/lotwDxcc.json&query=total_qso)
 ![LoTW QSLs](https://img.shields.io/badge/dynamic/json?label=LoTW%20QSL&url=https://bg6lh.github.io/js/lotwDxcc.json&query=total_qsl)
 ![total views](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/total_views.svg)
