@@ -1,10 +1,12 @@
 ![DXCC Confirmed](https://img.shields.io/badge/dynamic/json?label=DXCC%20CFM&url=https://bg6lh.github.io/js/lotwDxcc.json&query=dxcc_confirmed)
 ![LoTW QSOs](https://img.shields.io/badge/dynamic/json?label=LoTW%20QSO&url=https://bg6lh.github.io/js/lotwDxcc.json&query=total_qso)
 ![LoTW QSLs](https://img.shields.io/badge/dynamic/json?label=LoTW%20QSL&url=https://bg6lh.github.io/js/lotwDxcc.json&query=total_qsl)
+
 ![total views](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/total_views.svg)
 ![total views per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/total_views_per_week.svg)
 ![total clones](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/total_clones.svg)
 ![total clones per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/total_clones_per_week.svg)
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
