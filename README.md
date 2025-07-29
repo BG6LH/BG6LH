@@ -28,3 +28,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-1D76BA?logo=kicad&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+<img src="https://hamalert.org/myspot?c=BG6LH&h=fd43c5a486f3f148" srcset="https://hamalert.org/myspot?c=BG6LH&h=fd43c5a486f3f148&hr=1 2x" />
+
